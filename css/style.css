@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding: 0;
+    text-align: center;
+}
+img{
+    height: 350px;
+    margin-top: 30%;
+}
+h1{
+    margin-top: 20px;
+}
+.global{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+#victory {
+    font-weight: bold;
+    color: red;
+}
+.fight{
+    width: 33%;
+    margin-top: 10%;
+}
+.firstPlayerImg{
+    width: 33%;
+}
+.secondPlayerImg{
+    width: 33%;
+}
